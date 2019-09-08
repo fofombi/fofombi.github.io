@@ -84,7 +84,7 @@ input, select, textarea {
 
 	body {
 		background: #fff;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: sans-serif;
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
@@ -2218,7 +2218,7 @@ input, select, textarea {
 		}
 
 			#main > section.dark {
-				color: #ddd;
+				color:#5b21f7;
 				color: rgba(255, 255, 255, 0.75);
 			}
 
@@ -2247,7 +2247,7 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #7d969c;
+				background-color: ##5b21f7;
 				background-image: url("../../images/banner.jpg");
 			}
 
